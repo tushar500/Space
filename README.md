@@ -1,8 +1,11 @@
 # spaceX
 A front-end application which would help users list and browse all launches by SpaceX program
-# How to Install
->git clone <library name>
->npm install
+# Clone the repo
+>git clone https://github.com/DikshantAgarwal/spaceX.git
+# Go to the project directory and install dependencies:
+>cd spaceX && npm install
   
-# How to run
->npm run dev(will run the project on http://localhost:8080/)
+# Launch the server
+>npm start
+
+Now, the application is running at http://localhost:8080. The initial homepage is Sever Rendered.
