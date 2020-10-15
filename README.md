@@ -3,7 +3,7 @@ A front-end application which would help users list and browse all launches by S
 - Clone the repo:
 
 ```bash
-git clone https://github.com/DikshantAgarwal/spaceX.git
+git clone
 ```
 - Go to the project directory and install dependencies:
 
